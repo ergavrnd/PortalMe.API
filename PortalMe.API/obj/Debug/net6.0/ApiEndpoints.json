@@ -1,0 +1,540 @@
+[
+  {
+    "ContainingType": "PortalMe.API.Controllers.AccountController",
+    "Method": "GetAllAsync",
+    "RelativePath": "account",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PortalMe.API.Controllers.AccountController",
+    "Method": "CreateAsync",
+    "RelativePath": "account",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "accountRequestDto",
+        "Type": "PortalMe.API.DTOs.Accounts.AccountRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PortalMe.API.Controllers.AccountController",
+    "Method": "GetByIdAsync",
+    "RelativePath": "account/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PortalMe.API.Controllers.AccountController",
+    "Method": "UpdateAsync",
+    "RelativePath": "account/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "accountRequestDto",
+        "Type": "PortalMe.API.DTOs.Accounts.AccountRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PortalMe.API.Controllers.AccountController",
+    "Method": "DeleteAsync",
+    "RelativePath": "account/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PortalMe.API.Controllers.AccountController",
+    "Method": "AddRoleAsync",
+    "RelativePath": "account/add-role",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "addAccountRoleRequestDto",
+        "Type": "PortalMe.API.DTOs.Accounts.AddAccountRoleRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PortalMe.API.Controllers.AccountController",
+    "Method": "LoginAsync",
+    "RelativePath": "account/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginRequestDto",
+        "Type": "PortalMe.API.DTOs.Accounts.LoginRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PortalMe.API.Controllers.AccountController",
+    "Method": "RegisterAsync",
+    "RelativePath": "account/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "registerDto",
+        "Type": "PortalMe.API.DTOs.Accounts.RegisterDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PortalMe.API.Controllers.AccountController",
+    "Method": "RemoveRoleAsync",
+    "RelativePath": "account/remove-role",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "removeAccountRoleRequestDto",
+        "Type": "PortalMe.API.DTOs.Accounts.RemoveAccountRoleRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PortalMe.API.Controllers.ApplicationController",
+    "Method": "GetAllAsync",
+    "RelativePath": "application",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PortalMe.API.Controllers.ApplicationController",
+    "Method": "CreateAsync",
+    "RelativePath": "application",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "applicationRequestDto",
+        "Type": "PortalMe.API.DTOs.Applications.ApplicationRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PortalMe.API.Controllers.ApplicationController",
+    "Method": "GetByIdAsync",
+    "RelativePath": "application/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PortalMe.API.Controllers.ApplicationController",
+    "Method": "UpdateAsync",
+    "RelativePath": "application/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "applicationRequestDto",
+        "Type": "PortalMe.API.DTOs.Applications.ApplicationRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PortalMe.API.Controllers.ApplicationController",
+    "Method": "DeleteAsync",
+    "RelativePath": "application/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PortalMe.API.Controllers.CompanyController",
+    "Method": "GetAllAsync",
+    "RelativePath": "company",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PortalMe.API.Controllers.CompanyController",
+    "Method": "CreateAsync",
+    "RelativePath": "company",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "companyRequestDto",
+        "Type": "PortalMe.API.DTOs.Companys.CompanyRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PortalMe.API.Controllers.CompanyController",
+    "Method": "GetByIdAsync",
+    "RelativePath": "company/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PortalMe.API.Controllers.CompanyController",
+    "Method": "UpdateAsync",
+    "RelativePath": "company/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "companyRequestDto",
+        "Type": "PortalMe.API.DTOs.Companys.CompanyRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PortalMe.API.Controllers.CompanyController",
+    "Method": "DeleteAsync",
+    "RelativePath": "company/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PortalMe.API.Controllers.EmployeeController",
+    "Method": "GetAllAsync",
+    "RelativePath": "employee",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PortalMe.API.Controllers.EmployeeController",
+    "Method": "CreateAsync",
+    "RelativePath": "employee",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "employeeRequestDto",
+        "Type": "PortalMe.API.DTOs.Employees.EmployeeRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PortalMe.API.Controllers.EmployeeController",
+    "Method": "GetByIdAsync",
+    "RelativePath": "employee/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PortalMe.API.Controllers.EmployeeController",
+    "Method": "UpdateAsync",
+    "RelativePath": "employee/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "employeeRequestDto",
+        "Type": "PortalMe.API.DTOs.Employees.EmployeeRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PortalMe.API.Controllers.EmployeeController",
+    "Method": "DeleteAsync",
+    "RelativePath": "employee/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PortalMe.API.Controllers.LogAdminController",
+    "Method": "GetAllAsync",
+    "RelativePath": "logAdmin",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PortalMe.API.Controllers.LogAdminController",
+    "Method": "CreateAsync",
+    "RelativePath": "logAdmin",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "logAdminRequestDto",
+        "Type": "PortalMe.API.DTOs.LogAdmins.LogAdminRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PortalMe.API.Controllers.LogAdminController",
+    "Method": "GetByIdAsync",
+    "RelativePath": "logAdmin/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PortalMe.API.Controllers.LogAdminController",
+    "Method": "UpdateAsync",
+    "RelativePath": "logAdmin/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "logAdminRequestDto",
+        "Type": "PortalMe.API.DTOs.LogAdmins.LogAdminRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PortalMe.API.Controllers.LogAdminController",
+    "Method": "DeleteAsync",
+    "RelativePath": "logAdmin/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PortalMe.API.Controllers.RoleController",
+    "Method": "GetAllAsync",
+    "RelativePath": "Role",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PortalMe.API.Controllers.RoleController",
+    "Method": "CreateAsync",
+    "RelativePath": "Role",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "roleRequestDto",
+        "Type": "PortalMe.API.DTOs.Roles.RoleRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PortalMe.API.Controllers.RoleController",
+    "Method": "GetByIdAsync",
+    "RelativePath": "Role/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PortalMe.API.Controllers.RoleController",
+    "Method": "UpdateAsync",
+    "RelativePath": "Role/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "roleRequestDto",
+        "Type": "PortalMe.API.DTOs.Roles.RoleRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PortalMe.API.Controllers.RoleController",
+    "Method": "DeleteAsync",
+    "RelativePath": "Role/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

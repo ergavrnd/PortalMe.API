@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "iOZMCHAYySKeAbHEcQ+gAX6khB2hzsDjuPl3w8voF1M=",
+  "Source": "PortalMe.API",
+  "BasePath": "_content/PortalMe.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
