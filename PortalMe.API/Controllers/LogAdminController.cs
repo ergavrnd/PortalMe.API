@@ -35,7 +35,7 @@ public class LogAdminController : ControllerBase
 
         return Ok(new ListResponseVM<LogAdminResponseDto>(StatusCodes.Status200OK,
                                                           HttpStatusCode.OK.ToString(),
-                                                          "Data LogAdmin Salah",
+                                                          "Data LogAdmin",
                                                           results.ToList()));
 
 
