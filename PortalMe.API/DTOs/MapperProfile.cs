@@ -17,20 +17,16 @@ namespace PortalMe.API.DTOs
             // For Employees
             CreateMap<RegisterDto, Employee>();
             CreateMap<EmployeeRequestDto, Employee>();
-            CreateMap<EmployeeResponseDto, Employee>();
+            CreateMap<Employee, EmployeeResponseDto>();
 
             // For Accounts
             CreateMap<RegisterDto, Account>()
-               .ForMember(dest => dest.Password,
-                          opt => opt.MapFrom(src => BCrpytHandler.HashPassword(src.Password)))
-               .ForMember(dest => dest.IsLoggedIn,
-                      opt => opt.MapFrom(src => true));
+              .ForMember(dest => dest.Password,
+                         opt => opt.MapFrom(src => BCrpytHandler.HashPassword(src.Password)));
 
             CreateMap<AccountRequestDto, Account>()
            .ForMember(dest => dest.Password,
-                      opt => opt.MapFrom(src => BCrpytHandler.HashPassword(src.Password)))
-           .ForMember(dest => dest.IsLoggedIn,
-                      opt => opt.MapFrom(src => true));
+                      opt => opt.MapFrom(src => BCrpytHandler.HashPassword(src.Password)));
 
             CreateMap<Account, AccountResponseDto>()
             .ForMember(dest => dest.Roles,

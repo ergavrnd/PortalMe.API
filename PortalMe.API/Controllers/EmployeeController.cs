@@ -94,7 +94,7 @@ public class EmployeeController : ControllerBase
                                         "Employee Updated"));
     }
 
-    [Authorize(Roles = "admin")]
+    
     [HttpDelete("{id}")]
     public async Task<IActionResult> DeleteAsync(Guid id)
     {

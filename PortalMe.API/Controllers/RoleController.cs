@@ -9,7 +9,7 @@ namespace PortalMe.API.Controllers;
 
 //[Authorize(Roles = "admin")]
 [ApiController]
-[Route("Role")]
+[Route("role")]
 public class RoleController : ControllerBase
 {
     private readonly IRoleService _roleService;
@@ -19,7 +19,7 @@ public class RoleController : ControllerBase
         _roleService = roleService;
     }
 
-   // [Authorize(Roles = "admin")]
+    [Authorize]
     [HttpGet]
     public async Task<IActionResult> GetAllAsync()
     {
@@ -38,7 +38,7 @@ public class RoleController : ControllerBase
                                                       results.ToList()));
     }
 
-    //[Authorize(Roles = "admin")]
+    
     [HttpGet("{id}")]
     public async Task<IActionResult> GetByIdAsync(Guid id)
     {

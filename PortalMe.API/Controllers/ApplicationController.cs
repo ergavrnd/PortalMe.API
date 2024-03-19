@@ -9,7 +9,7 @@ using System.Net;
 
 namespace PortalMe.API.Controllers;
 
-//[Authorize(Roles = "admin")]
+//[Authorize(Roles = "Admin")]
 [ApiController]
 [Route("application")]
 public class ApplicationController : ControllerBase
@@ -21,7 +21,7 @@ public class ApplicationController : ControllerBase
         _applicationService = applicationService;
     }
 
-    
+    [Authorize]
     [HttpGet]
     public async Task<IActionResult> GetAllAsync()
     {

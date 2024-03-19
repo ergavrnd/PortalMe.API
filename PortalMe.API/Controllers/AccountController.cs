@@ -7,7 +7,7 @@ using System.Net;
 
 namespace PortalMe.API.Controllers;
 
-//[Authorize(Roles = "admin")]
+//[Authorize(Roles = "Admin")]
 [ApiController]
 [Route("account")]
 
@@ -74,7 +74,7 @@ public class AccountController : ControllerBase
                                         "Employee Deleted"));
     }
 
-    //[Authorize(Roles = "admin")]
+    
     [HttpPost("add-role")]
     public async Task<IActionResult> AddRoleAsync(AddAccountRoleRequestDto addAccountRoleRequestDto)
     {
@@ -101,7 +101,7 @@ public class AccountController : ControllerBase
                                         "Role Added"));
     }
 
-    //[Authorize(Roles = "admin")]
+   
     [HttpGet]
     public async Task<IActionResult> GetAllAsync()
     {
@@ -138,7 +138,7 @@ public class AccountController : ControllerBase
                                                            result));
     }
 
-   // [Authorize(Roles = "admin")]
+  
     [HttpPost]
     public async Task<IActionResult> CreateAsync(AccountRequestDto accountRequestDto)
     {
@@ -149,7 +149,7 @@ public class AccountController : ControllerBase
                                         "Account Created"));
     }
 
-   // [Authorize(Roles = "admin")]
+  
     [HttpPut("{id}")]
     public async Task<IActionResult> UpdateAsync(Guid id, AccountRequestDto accountRequestDto)
     {
@@ -168,7 +168,7 @@ public class AccountController : ControllerBase
                                         "Account Updated"));
     }
 
-   // [Authorize(Roles = "admin")]
+   
     [HttpDelete("{id}")]
     public async Task<IActionResult> DeleteAsync(Guid id)
     {

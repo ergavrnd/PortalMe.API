@@ -2,5 +2,5 @@
 
     public record AccountRequestDto(
     Guid Id,
-    string Password,
-    bool IsActive);
+    string Email,
+    string Password);

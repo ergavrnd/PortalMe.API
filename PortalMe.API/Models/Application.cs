@@ -13,6 +13,9 @@ namespace PortalMe.API.Models
         [Column("name_app", TypeName = "varchar(50)")]
         public string NameApp { get; set; }
 
+        [Column("photo", TypeName = "varchar(255)")]
+        public string Photo { get; set; } = string.Empty;
+
         [Column("url_app", TypeName = "varchar(255)")]
         public string UrlApp { get; set; }
 

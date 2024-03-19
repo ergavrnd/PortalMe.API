@@ -53,11 +53,32 @@ namespace PortalMe.API.Services
 
         public async Task<int> CreateAsync(AccountRequestDto accountRequestDto)
         {
-            var account = _mapper.Map<Account>(accountRequestDto);
+            await using var transaction = await _accountRepository.BeginTransactionAsync();
+            try
+            {
+                var account = _mapper.Map<Account>(accountRequestDto);
 
-            await _accountRepository.CreateAsync(account);
+                await _accountRepository.CreateAsync(account);
 
-            return 1; // success
+                var Role = await _roleRepository.GetByNameAsync("Employee"); //bikin admin
+                
+
+                if (Role == null) return 0;
+                var accountRole = new AccountRole { AccountId = accountRequestDto.Id,
+                                                    RoleId = Role.Id};
+
+                await _accountRoleRepository.CreateAsync(accountRole);
+
+                await transaction.CommitAsync();
+
+                return 1; // success}
+            }
+
+            catch
+            {
+                await transaction.RollbackAsync();
+                throw;
+            }
         }
 
         public async Task<int> DeleteAsync(Guid id)
@@ -95,26 +116,29 @@ namespace PortalMe.API.Services
         {
             var account = await _accountRepository.GetByEmailAsync(loginRequestDto.Email);
 
-            if (account == null) return null; // not found
-
-            var employee = await _employeeRepository.GetByIdAsync(account.Id);
-
-            if (employee == null) return null; // not found
-
-            var hashPassword = BCrpytHandler.HashPassword(loginRequestDto.Password);
-
-            var isPasswordValid = BCrpytHandler.VerifyPassword(loginRequestDto.Password, account.Password);
-            
-            if (!isPasswordValid) return null; // not found
-
-            var claims = new List<Claim>();
-
-            var getAccountRole = account.AccountRoles.Select(ar => ar.Role.RoleName);
-            foreach (var item in getAccountRole)
+            if (account == null)
             {
-                claims.Add(new Claim(ClaimTypes.Role, item));
+                throw new Exception("Akun tidak ditemukan.");
+            }// not found
+
+            //Verifikasi Password
+            var isPasswordValid = BCrpytHandler.VerifyPassword(loginRequestDto.Password, account.Password);
+            if (!isPasswordValid)
+            {
+                loginRequestDto = new LoginRequestDto(loginRequestDto.Email, account.Password);
             }
 
+            //mengumpulkan peran dari akun
+            var claims = new List<Claim>();
+
+            var accountRole = account.AccountRoles.Select(ar => ar.Role.RoleName);
+            foreach (var role in accountRole)
+            {
+                claims.Add(new Claim(ClaimTypes.Email, account.Email));
+                claims.Add(new Claim(ClaimTypes.Role, role));
+            }
+
+            //membuat token JWT
             var token = _jwtHandler.Generate(claims);
 
             return new LoginResponseDto(token);

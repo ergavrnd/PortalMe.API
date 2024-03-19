@@ -3,6 +3,7 @@
     public record ApplicationResponseDto(
         Guid Id,
         string NameApp,
+        string Photo,
         string UrlApp
         );
 

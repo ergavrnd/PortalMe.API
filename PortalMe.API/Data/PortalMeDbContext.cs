@@ -58,41 +58,40 @@ namespace PortalMe.API.Data
                         .WithOne(e => e.Company)
                         .HasForeignKey(e => e.CompanyId);
 
-           // var roleEmployeeId = Guid.NewGuid();
-           // var roleAdminId = Guid.NewGuid();
-            //modelBuilder.Entity<Role>()
-                        //.HasData(new Role { Id = roleEmployeeId,
-                                           // RoleName = "Employee"},
-                                // new Role { Id = roleAdminId,
-                                            //RoleName = "Admin" });
+            var roleEmployeeId = Guid.NewGuid();
+            var roleAdminId = Guid.NewGuid();
+            modelBuilder.Entity<Role>()
+                        .HasData(new Role { Id = roleEmployeeId,
+                                            RoleName = "Employee"},
+                                 new Role { Id = roleAdminId,
+                                            RoleName = "Admin" });
 
-            //var companyId = Guid.NewGuid();
-            //modelBuilder.Entity<Company>()
-                       // .HasData(new Company { Id = companyId,
-                                               //CompanyName = "Metrodata"}
-                                // );
+            var companyId = Guid.NewGuid();
+            modelBuilder.Entity<Company>()
+                        .HasData(new Company { Id = companyId,
+                                               CompanyName = "Metrodata"}
+                                 );
 
-           // var employeeId = Guid.NewGuid();
-           // modelBuilder.Entity<Employee>()
-                        //.HasData(new Employee { Id = employeeId,
-                                               // FirstName = "Dian",
-                                                //LastName = "Sastro",
-                                                //CompanyId = companyId,
-                                                //Department = "ADD 1",
-                                                //Position = "Appdev",
-                                                //Photo = "profile.jpg"});
+           var employeeId = Guid.NewGuid();
+           modelBuilder.Entity<Employee>()
+                        .HasData(new Employee { Id = employeeId,
+                                                FirstName = "Dian",
+                                                LastName = "Sastro",
+                                                CompanyId = companyId,
+                                                Department = "ADD 1",
+                                                Position = "Appdev",
+                                                Photo = "profile.jpg"});
 
-            //modelBuilder.Entity<Account>()
-                       // .HasData(new Account { Id = employeeId,
-                                                //Email = "diansastro@mii.co.id",
-                                                //Password = BCrpytHandler.HashPassword("dian"),
-                                                //IsLoggedIn = false});
+            modelBuilder.Entity<Account>()
+                        .HasData(new Account { Id = employeeId,
+                                                Email = "diansastro@mii.co.id",
+                                                Password = BCrpytHandler.HashPassword("dian")});
 
-           // modelBuilder.Entity<AccountRole>()
-                        //.HasData(new AccountRole { Id = Guid.NewGuid(), AccountId = employeeId,
-                                                    //RoleId = roleEmployeeId},
-                                 //new AccountRole { Id = Guid.NewGuid(), AccountId = employeeId,
-                                                    //RoleId = roleAdminId});
+            modelBuilder.Entity<AccountRole>()
+                        .HasData(new AccountRole { Id = Guid.NewGuid(), AccountId = employeeId,
+                                                    RoleId = roleEmployeeId},
+                                 new AccountRole { Id = Guid.NewGuid(), AccountId = employeeId,
+                                                    RoleId = roleAdminId});
 
         }
     }

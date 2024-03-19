@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PortalMe.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7d045c5646ac937ce9122f519be5dd306bff5b7d")]
 [assembly: System.Reflection.AssemblyProductAttribute("PortalMe.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PortalMe.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

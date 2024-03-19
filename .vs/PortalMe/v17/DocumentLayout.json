@@ -3,8 +3,192 @@
   "WorkspaceRootPath": "C:\\Users\\erga viranda ramsya\\OneDrive\\Documents\\PortalMe\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{783A3AB6-CDC6-4026-A04F-285413C300CC}|PortalMe.API\\PortalMe.API.csproj|c:\\users\\erga viranda ramsya\\onedrive\\documents\\portalme\\portalme.api\\models\\applicationpermission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{783A3AB6-CDC6-4026-A04F-285413C300CC}|PortalMe.API\\PortalMe.API.csproj|solutionrelative:portalme.api\\models\\applicationpermission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783A3AB6-CDC6-4026-A04F-285413C300CC}|PortalMe.API\\PortalMe.API.csproj|c:\\users\\erga viranda ramsya\\onedrive\\documents\\portalme\\portalme.api\\models\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{783A3AB6-CDC6-4026-A04F-285413C300CC}|PortalMe.API\\PortalMe.API.csproj|solutionrelative:portalme.api\\models\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783A3AB6-CDC6-4026-A04F-285413C300CC}|PortalMe.API\\PortalMe.API.csproj|c:\\users\\erga viranda ramsya\\onedrive\\documents\\portalme\\portalme.api\\models\\accountrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{783A3AB6-CDC6-4026-A04F-285413C300CC}|PortalMe.API\\PortalMe.API.csproj|solutionrelative:portalme.api\\models\\accountrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783A3AB6-CDC6-4026-A04F-285413C300CC}|PortalMe.API\\PortalMe.API.csproj|c:\\users\\erga viranda ramsya\\onedrive\\documents\\portalme\\portalme.api\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{783A3AB6-CDC6-4026-A04F-285413C300CC}|PortalMe.API\\PortalMe.API.csproj|solutionrelative:portalme.api\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783A3AB6-CDC6-4026-A04F-285413C300CC}|PortalMe.API\\PortalMe.API.csproj|c:\\users\\erga viranda ramsya\\onedrive\\documents\\portalme\\portalme.api\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{783A3AB6-CDC6-4026-A04F-285413C300CC}|PortalMe.API\\PortalMe.API.csproj|solutionrelative:portalme.api\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783A3AB6-CDC6-4026-A04F-285413C300CC}|PortalMe.API\\PortalMe.API.csproj|c:\\users\\erga viranda ramsya\\onedrive\\documents\\portalme\\portalme.api\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{783A3AB6-CDC6-4026-A04F-285413C300CC}|PortalMe.API\\PortalMe.API.csproj|solutionrelative:portalme.api\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783A3AB6-CDC6-4026-A04F-285413C300CC}|PortalMe.API\\PortalMe.API.csproj|c:\\users\\erga viranda ramsya\\onedrive\\documents\\portalme\\portalme.api\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{783A3AB6-CDC6-4026-A04F-285413C300CC}|PortalMe.API\\PortalMe.API.csproj|solutionrelative:portalme.api\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783A3AB6-CDC6-4026-A04F-285413C300CC}|PortalMe.API\\PortalMe.API.csproj|c:\\users\\erga viranda ramsya\\onedrive\\documents\\portalme\\portalme.api\\models\\logadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{783A3AB6-CDC6-4026-A04F-285413C300CC}|PortalMe.API\\PortalMe.API.csproj|solutionrelative:portalme.api\\models\\logadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783A3AB6-CDC6-4026-A04F-285413C300CC}|PortalMe.API\\PortalMe.API.csproj|c:\\users\\erga viranda ramsya\\onedrive\\documents\\portalme\\portalme.api\\dtos\\mapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{783A3AB6-CDC6-4026-A04F-285413C300CC}|PortalMe.API\\PortalMe.API.csproj|solutionrelative:portalme.api\\dtos\\mapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783A3AB6-CDC6-4026-A04F-285413C300CC}|PortalMe.API\\PortalMe.API.csproj|c:\\users\\erga viranda ramsya\\onedrive\\documents\\portalme\\portalme.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{783A3AB6-CDC6-4026-A04F-285413C300CC}|PortalMe.API\\PortalMe.API.csproj|solutionrelative:portalme.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783A3AB6-CDC6-4026-A04F-285413C300CC}|PortalMe.API\\PortalMe.API.csproj|c:\\users\\erga viranda ramsya\\onedrive\\documents\\portalme\\portalme.api\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{783A3AB6-CDC6-4026-A04F-285413C300CC}|PortalMe.API\\PortalMe.API.csproj|solutionrelative:portalme.api\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783A3AB6-CDC6-4026-A04F-285413C300CC}|PortalMe.API\\PortalMe.API.csproj|c:\\users\\erga viranda ramsya\\onedrive\\documents\\portalme\\portalme.api\\services\\interfaces\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{783A3AB6-CDC6-4026-A04F-285413C300CC}|PortalMe.API\\PortalMe.API.csproj|solutionrelative:portalme.api\\services\\interfaces\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783A3AB6-CDC6-4026-A04F-285413C300CC}|PortalMe.API\\PortalMe.API.csproj|c:\\users\\erga viranda ramsya\\onedrive\\documents\\portalme\\portalme.api\\dtos\\accounts\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{783A3AB6-CDC6-4026-A04F-285413C300CC}|PortalMe.API\\PortalMe.API.csproj|solutionrelative:portalme.api\\dtos\\accounts\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783A3AB6-CDC6-4026-A04F-285413C300CC}|PortalMe.API\\PortalMe.API.csproj|c:\\users\\erga viranda ramsya\\onedrive\\documents\\portalme\\portalme.api\\dtos\\applications\\applicationresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{783A3AB6-CDC6-4026-A04F-285413C300CC}|PortalMe.API\\PortalMe.API.csproj|solutionrelative:portalme.api\\dtos\\applications\\applicationresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783A3AB6-CDC6-4026-A04F-285413C300CC}|PortalMe.API\\PortalMe.API.csproj|c:\\users\\erga viranda ramsya\\onedrive\\documents\\portalme\\portalme.api\\dtos\\applications\\applicationrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{783A3AB6-CDC6-4026-A04F-285413C300CC}|PortalMe.API\\PortalMe.API.csproj|solutionrelative:portalme.api\\dtos\\applications\\applicationrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783A3AB6-CDC6-4026-A04F-285413C300CC}|PortalMe.API\\PortalMe.API.csproj|c:\\users\\erga viranda ramsya\\onedrive\\documents\\portalme\\portalme.api\\data\\portalmedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{783A3AB6-CDC6-4026-A04F-285413C300CC}|PortalMe.API\\PortalMe.API.csproj|solutionrelative:portalme.api\\data\\portalmedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783A3AB6-CDC6-4026-A04F-285413C300CC}|PortalMe.API\\PortalMe.API.csproj|c:\\users\\erga viranda ramsya\\onedrive\\documents\\portalme\\portalme.api\\dtos\\roles\\roleresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{783A3AB6-CDC6-4026-A04F-285413C300CC}|PortalMe.API\\PortalMe.API.csproj|solutionrelative:portalme.api\\dtos\\roles\\roleresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783A3AB6-CDC6-4026-A04F-285413C300CC}|PortalMe.API\\PortalMe.API.csproj|c:\\users\\erga viranda ramsya\\onedrive\\documents\\portalme\\portalme.api\\services\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{783A3AB6-CDC6-4026-A04F-285413C300CC}|PortalMe.API\\PortalMe.API.csproj|solutionrelative:portalme.api\\services\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783A3AB6-CDC6-4026-A04F-285413C300CC}|PortalMe.API\\PortalMe.API.csproj|c:\\users\\erga viranda ramsya\\onedrive\\documents\\portalme\\portalme.api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{783A3AB6-CDC6-4026-A04F-285413C300CC}|PortalMe.API\\PortalMe.API.csproj|solutionrelative:portalme.api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783A3AB6-CDC6-4026-A04F-285413C300CC}|PortalMe.API\\PortalMe.API.csproj|c:\\users\\erga viranda ramsya\\onedrive\\documents\\portalme\\portalme.api\\dtos\\employees\\employeeresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{783A3AB6-CDC6-4026-A04F-285413C300CC}|PortalMe.API\\PortalMe.API.csproj|solutionrelative:portalme.api\\dtos\\employees\\employeeresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783A3AB6-CDC6-4026-A04F-285413C300CC}|PortalMe.API\\PortalMe.API.csproj|c:\\users\\erga viranda ramsya\\onedrive\\documents\\portalme\\portalme.api\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{783A3AB6-CDC6-4026-A04F-285413C300CC}|PortalMe.API\\PortalMe.API.csproj|solutionrelative:portalme.api\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783A3AB6-CDC6-4026-A04F-285413C300CC}|PortalMe.API\\PortalMe.API.csproj|c:\\users\\erga viranda ramsya\\onedrive\\documents\\portalme\\portalme.api\\repositories\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{783A3AB6-CDC6-4026-A04F-285413C300CC}|PortalMe.API\\PortalMe.API.csproj|solutionrelative:portalme.api\\repositories\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783A3AB6-CDC6-4026-A04F-285413C300CC}|PortalMe.API\\PortalMe.API.csproj|c:\\users\\erga viranda ramsya\\onedrive\\documents\\portalme\\portalme.api\\repositories\\interfaces\\ilogadminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{783A3AB6-CDC6-4026-A04F-285413C300CC}|PortalMe.API\\PortalMe.API.csproj|solutionrelative:portalme.api\\repositories\\interfaces\\ilogadminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783A3AB6-CDC6-4026-A04F-285413C300CC}|PortalMe.API\\PortalMe.API.csproj|c:\\users\\erga viranda ramsya\\onedrive\\documents\\portalme\\portalme.api\\repositories\\interfaces\\icompanyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{783A3AB6-CDC6-4026-A04F-285413C300CC}|PortalMe.API\\PortalMe.API.csproj|solutionrelative:portalme.api\\repositories\\interfaces\\icompanyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783A3AB6-CDC6-4026-A04F-285413C300CC}|PortalMe.API\\PortalMe.API.csproj|c:\\users\\erga viranda ramsya\\onedrive\\documents\\portalme\\portalme.api\\repositories\\interfaces\\iaccountrolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{783A3AB6-CDC6-4026-A04F-285413C300CC}|PortalMe.API\\PortalMe.API.csproj|solutionrelative:portalme.api\\repositories\\interfaces\\iaccountrolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783A3AB6-CDC6-4026-A04F-285413C300CC}|PortalMe.API\\PortalMe.API.csproj|c:\\users\\erga viranda ramsya\\onedrive\\documents\\portalme\\portalme.api\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{783A3AB6-CDC6-4026-A04F-285413C300CC}|PortalMe.API\\PortalMe.API.csproj|solutionrelative:portalme.api\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783A3AB6-CDC6-4026-A04F-285413C300CC}|PortalMe.API\\PortalMe.API.csproj|c:\\users\\erga viranda ramsya\\onedrive\\documents\\portalme\\portalme.api\\dtos\\roles\\rolerequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{783A3AB6-CDC6-4026-A04F-285413C300CC}|PortalMe.API\\PortalMe.API.csproj|solutionrelative:portalme.api\\dtos\\roles\\rolerequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783A3AB6-CDC6-4026-A04F-285413C300CC}|PortalMe.API\\PortalMe.API.csproj|c:\\users\\erga viranda ramsya\\onedrive\\documents\\portalme\\portalme.api\\dtos\\employees\\employeerequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{783A3AB6-CDC6-4026-A04F-285413C300CC}|PortalMe.API\\PortalMe.API.csproj|solutionrelative:portalme.api\\dtos\\employees\\employeerequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783A3AB6-CDC6-4026-A04F-285413C300CC}|PortalMe.API\\PortalMe.API.csproj|c:\\users\\erga viranda ramsya\\onedrive\\documents\\portalme\\portalme.api\\services\\interfaces\\iapplicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{783A3AB6-CDC6-4026-A04F-285413C300CC}|PortalMe.API\\PortalMe.API.csproj|solutionrelative:portalme.api\\services\\interfaces\\iapplicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783A3AB6-CDC6-4026-A04F-285413C300CC}|PortalMe.API\\PortalMe.API.csproj|c:\\users\\erga viranda ramsya\\onedrive\\documents\\portalme\\portalme.api\\services\\interfaces\\iroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{783A3AB6-CDC6-4026-A04F-285413C300CC}|PortalMe.API\\PortalMe.API.csproj|solutionrelative:portalme.api\\services\\interfaces\\iroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783A3AB6-CDC6-4026-A04F-285413C300CC}|PortalMe.API\\PortalMe.API.csproj|c:\\users\\erga viranda ramsya\\onedrive\\documents\\portalme\\portalme.api\\repositories\\data\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{783A3AB6-CDC6-4026-A04F-285413C300CC}|PortalMe.API\\PortalMe.API.csproj|solutionrelative:portalme.api\\repositories\\data\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783A3AB6-CDC6-4026-A04F-285413C300CC}|PortalMe.API\\PortalMe.API.csproj|c:\\users\\erga viranda ramsya\\onedrive\\documents\\portalme\\portalme.api\\repositories\\interfaces\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{783A3AB6-CDC6-4026-A04F-285413C300CC}|PortalMe.API\\PortalMe.API.csproj|solutionrelative:portalme.api\\repositories\\interfaces\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{783A3AB6-CDC6-4026-A04F-285413C300CC}|PortalMe.API\\PortalMe.API.csproj|c:\\users\\erga viranda ramsya\\onedrive\\documents\\portalme\\portalme.api\\controllers\\logadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{783A3AB6-CDC6-4026-A04F-285413C300CC}|PortalMe.API\\PortalMe.API.csproj|solutionrelative:portalme.api\\controllers\\logadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783A3AB6-CDC6-4026-A04F-285413C300CC}|PortalMe.API\\PortalMe.API.csproj|c:\\users\\erga viranda ramsya\\onedrive\\documents\\portalme\\portalme.api\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{783A3AB6-CDC6-4026-A04F-285413C300CC}|PortalMe.API\\PortalMe.API.csproj|solutionrelative:portalme.api\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783A3AB6-CDC6-4026-A04F-285413C300CC}|PortalMe.API\\PortalMe.API.csproj|c:\\users\\erga viranda ramsya\\onedrive\\documents\\portalme\\portalme.api\\controllers\\applicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{783A3AB6-CDC6-4026-A04F-285413C300CC}|PortalMe.API\\PortalMe.API.csproj|solutionrelative:portalme.api\\controllers\\applicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783A3AB6-CDC6-4026-A04F-285413C300CC}|PortalMe.API\\PortalMe.API.csproj|c:\\users\\erga viranda ramsya\\onedrive\\documents\\portalme\\portalme.api\\dtos\\accounts\\accountrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{783A3AB6-CDC6-4026-A04F-285413C300CC}|PortalMe.API\\PortalMe.API.csproj|solutionrelative:portalme.api\\dtos\\accounts\\accountrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783A3AB6-CDC6-4026-A04F-285413C300CC}|PortalMe.API\\PortalMe.API.csproj|c:\\users\\erga viranda ramsya\\onedrive\\documents\\portalme\\portalme.api\\dtos\\accounts\\accountresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{783A3AB6-CDC6-4026-A04F-285413C300CC}|PortalMe.API\\PortalMe.API.csproj|solutionrelative:portalme.api\\dtos\\accounts\\accountresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783A3AB6-CDC6-4026-A04F-285413C300CC}|PortalMe.API\\PortalMe.API.csproj|c:\\users\\erga viranda ramsya\\onedrive\\documents\\portalme\\portalme.api\\repositories\\data\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{783A3AB6-CDC6-4026-A04F-285413C300CC}|PortalMe.API\\PortalMe.API.csproj|solutionrelative:portalme.api\\repositories\\data\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783A3AB6-CDC6-4026-A04F-285413C300CC}|PortalMe.API\\PortalMe.API.csproj|c:\\users\\erga viranda ramsya\\onedrive\\documents\\portalme\\portalme.api\\dtos\\accounts\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{783A3AB6-CDC6-4026-A04F-285413C300CC}|PortalMe.API\\PortalMe.API.csproj|solutionrelative:portalme.api\\dtos\\accounts\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783A3AB6-CDC6-4026-A04F-285413C300CC}|PortalMe.API\\PortalMe.API.csproj|c:\\users\\erga viranda ramsya\\onedrive\\documents\\portalme\\portalme.api\\dtos\\accounts\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{783A3AB6-CDC6-4026-A04F-285413C300CC}|PortalMe.API\\PortalMe.API.csproj|solutionrelative:portalme.api\\dtos\\accounts\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783A3AB6-CDC6-4026-A04F-285413C300CC}|PortalMe.API\\PortalMe.API.csproj|c:\\users\\erga viranda ramsya\\onedrive\\documents\\portalme\\portalme.api\\dtos\\accounts\\addaccountrolerequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{783A3AB6-CDC6-4026-A04F-285413C300CC}|PortalMe.API\\PortalMe.API.csproj|solutionrelative:portalme.api\\dtos\\accounts\\addaccountrolerequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783A3AB6-CDC6-4026-A04F-285413C300CC}|PortalMe.API\\PortalMe.API.csproj|c:\\users\\erga viranda ramsya\\onedrive\\documents\\portalme\\portalme.api\\dtos\\accounts\\accountroleresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{783A3AB6-CDC6-4026-A04F-285413C300CC}|PortalMe.API\\PortalMe.API.csproj|solutionrelative:portalme.api\\dtos\\accounts\\accountroleresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783A3AB6-CDC6-4026-A04F-285413C300CC}|PortalMe.API\\PortalMe.API.csproj|c:\\users\\erga viranda ramsya\\onedrive\\documents\\portalme\\portalme.api\\dtos\\companys\\companyrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{783A3AB6-CDC6-4026-A04F-285413C300CC}|PortalMe.API\\PortalMe.API.csproj|solutionrelative:portalme.api\\dtos\\companys\\companyrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783A3AB6-CDC6-4026-A04F-285413C300CC}|PortalMe.API\\PortalMe.API.csproj|c:\\users\\erga viranda ramsya\\onedrive\\documents\\portalme\\portalme.api\\repositories\\data\\accountrolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{783A3AB6-CDC6-4026-A04F-285413C300CC}|PortalMe.API\\PortalMe.API.csproj|solutionrelative:portalme.api\\repositories\\data\\accountrolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783A3AB6-CDC6-4026-A04F-285413C300CC}|PortalMe.API\\PortalMe.API.csproj|c:\\users\\erga viranda ramsya\\onedrive\\documents\\portalme\\portalme.api\\repositories\\interfaces\\iapplicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{783A3AB6-CDC6-4026-A04F-285413C300CC}|PortalMe.API\\PortalMe.API.csproj|solutionrelative:portalme.api\\repositories\\interfaces\\iapplicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783A3AB6-CDC6-4026-A04F-285413C300CC}|PortalMe.API\\PortalMe.API.csproj|c:\\users\\erga viranda ramsya\\onedrive\\documents\\portalme\\portalme.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{783A3AB6-CDC6-4026-A04F-285413C300CC}|PortalMe.API\\PortalMe.API.csproj|solutionrelative:portalme.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783A3AB6-CDC6-4026-A04F-285413C300CC}|PortalMe.API\\PortalMe.API.csproj|c:\\users\\erga viranda ramsya\\onedrive\\documents\\portalme\\portalme.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{783A3AB6-CDC6-4026-A04F-285413C300CC}|PortalMe.API\\PortalMe.API.csproj|solutionrelative:portalme.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +198,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,16 +210,580 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Application.cs",
+              "DocumentMoniker": "C:\\Users\\erga viranda ramsya\\OneDrive\\Documents\\PortalMe\\PortalMe.API\\Models\\Application.cs",
+              "RelativeDocumentMoniker": "PortalMe.API\\Models\\Application.cs",
+              "ToolTip": "C:\\Users\\erga viranda ramsya\\OneDrive\\Documents\\PortalMe\\PortalMe.API\\Models\\Application.cs",
+              "RelativeToolTip": "PortalMe.API\\Models\\Application.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T06:47:52.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ApplicationPermission.cs",
+              "DocumentMoniker": "C:\\Users\\erga viranda ramsya\\OneDrive\\Documents\\PortalMe\\PortalMe.API\\Models\\ApplicationPermission.cs",
+              "RelativeDocumentMoniker": "PortalMe.API\\Models\\ApplicationPermission.cs",
+              "ToolTip": "C:\\Users\\erga viranda ramsya\\OneDrive\\Documents\\PortalMe\\PortalMe.API\\Models\\ApplicationPermission.cs",
+              "RelativeToolTip": "PortalMe.API\\Models\\ApplicationPermission.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T06:48:32.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountRole.cs",
+              "DocumentMoniker": "C:\\Users\\erga viranda ramsya\\OneDrive\\Documents\\PortalMe\\PortalMe.API\\Models\\AccountRole.cs",
+              "RelativeDocumentMoniker": "PortalMe.API\\Models\\AccountRole.cs",
+              "ToolTip": "C:\\Users\\erga viranda ramsya\\OneDrive\\Documents\\PortalMe\\PortalMe.API\\Models\\AccountRole.cs",
+              "RelativeToolTip": "PortalMe.API\\Models\\AccountRole.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T06:47:35.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\erga viranda ramsya\\OneDrive\\Documents\\PortalMe\\PortalMe.API\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "PortalMe.API\\Models\\Account.cs",
+              "ToolTip": "C:\\Users\\erga viranda ramsya\\OneDrive\\Documents\\PortalMe\\PortalMe.API\\Models\\Account.cs",
+              "RelativeToolTip": "PortalMe.API\\Models\\Account.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T01:47:26.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\erga viranda ramsya\\OneDrive\\Documents\\PortalMe\\PortalMe.API\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "PortalMe.API\\Models\\Role.cs",
+              "ToolTip": "C:\\Users\\erga viranda ramsya\\OneDrive\\Documents\\PortalMe\\PortalMe.API\\Models\\Role.cs",
+              "RelativeToolTip": "PortalMe.API\\Models\\Role.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwA8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T06:48:40.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LogAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\erga viranda ramsya\\OneDrive\\Documents\\PortalMe\\PortalMe.API\\Models\\LogAdmin.cs",
+              "RelativeDocumentMoniker": "PortalMe.API\\Models\\LogAdmin.cs",
+              "ToolTip": "C:\\Users\\erga viranda ramsya\\OneDrive\\Documents\\PortalMe\\PortalMe.API\\Models\\LogAdmin.cs",
+              "RelativeToolTip": "PortalMe.API\\Models\\LogAdmin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T06:48:37.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\erga viranda ramsya\\OneDrive\\Documents\\PortalMe\\PortalMe.API\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "PortalMe.API\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\erga viranda ramsya\\OneDrive\\Documents\\PortalMe\\PortalMe.API\\Models\\Employee.cs",
+              "RelativeToolTip": "PortalMe.API\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T06:46:55.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Company.cs",
+              "DocumentMoniker": "C:\\Users\\erga viranda ramsya\\OneDrive\\Documents\\PortalMe\\PortalMe.API\\Models\\Company.cs",
+              "RelativeDocumentMoniker": "PortalMe.API\\Models\\Company.cs",
+              "ToolTip": "C:\\Users\\erga viranda ramsya\\OneDrive\\Documents\\PortalMe\\PortalMe.API\\Models\\Company.cs",
+              "RelativeToolTip": "PortalMe.API\\Models\\Company.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T06:48:34.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\erga viranda ramsya\\OneDrive\\Documents\\PortalMe\\PortalMe.API\\DTOs\\MapperProfile.cs",
+              "RelativeDocumentMoniker": "PortalMe.API\\DTOs\\MapperProfile.cs",
+              "ToolTip": "C:\\Users\\erga viranda ramsya\\OneDrive\\Documents\\PortalMe\\PortalMe.API\\DTOs\\MapperProfile.cs",
+              "RelativeToolTip": "PortalMe.API\\DTOs\\MapperProfile.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAIA/wBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T07:05:51.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "C:\\Users\\erga viranda ramsya\\OneDrive\\Documents\\PortalMe\\PortalMe.API\\Services\\AccountService.cs",
+              "RelativeDocumentMoniker": "PortalMe.API\\Services\\AccountService.cs",
+              "ToolTip": "C:\\Users\\erga viranda ramsya\\OneDrive\\Documents\\PortalMe\\PortalMe.API\\Services\\AccountService.cs",
+              "RelativeToolTip": "PortalMe.API\\Services\\AccountService.cs",
+              "ViewState": "AQIAAJAAAAAAAAAAAAAIwLwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T01:34:43.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\erga viranda ramsya\\OneDrive\\Documents\\PortalMe\\PortalMe.API\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "PortalMe.API\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\erga viranda ramsya\\OneDrive\\Documents\\PortalMe\\PortalMe.API\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "PortalMe.API\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAUwB4AAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T02:31:49.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IAccountService.cs",
+              "DocumentMoniker": "C:\\Users\\erga viranda ramsya\\OneDrive\\Documents\\PortalMe\\PortalMe.API\\Services\\Interfaces\\IAccountService.cs",
+              "RelativeDocumentMoniker": "PortalMe.API\\Services\\Interfaces\\IAccountService.cs",
+              "ToolTip": "C:\\Users\\erga viranda ramsya\\OneDrive\\Documents\\PortalMe\\PortalMe.API\\Services\\Interfaces\\IAccountService.cs",
+              "RelativeToolTip": "PortalMe.API\\Services\\Interfaces\\IAccountService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T07:13:05.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\erga viranda ramsya\\OneDrive\\Documents\\PortalMe\\PortalMe.API\\DTOs\\Accounts\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "PortalMe.API\\DTOs\\Accounts\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\erga viranda ramsya\\OneDrive\\Documents\\PortalMe\\PortalMe.API\\DTOs\\Accounts\\RegisterDto.cs",
+              "RelativeToolTip": "PortalMe.API\\DTOs\\Accounts\\RegisterDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T04:05:58.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\erga viranda ramsya\\OneDrive\\Documents\\PortalMe\\PortalMe.API\\DTOs\\Applications\\ApplicationResponseDto.cs",
+              "RelativeDocumentMoniker": "PortalMe.API\\DTOs\\Applications\\ApplicationResponseDto.cs",
+              "ToolTip": "C:\\Users\\erga viranda ramsya\\OneDrive\\Documents\\PortalMe\\PortalMe.API\\DTOs\\Applications\\ApplicationResponseDto.cs",
+              "RelativeToolTip": "PortalMe.API\\DTOs\\Applications\\ApplicationResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T02:34:42.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RoleService.cs",
+              "DocumentMoniker": "C:\\Users\\erga viranda ramsya\\OneDrive\\Documents\\PortalMe\\PortalMe.API\\Services\\RoleService.cs",
+              "RelativeDocumentMoniker": "PortalMe.API\\Services\\RoleService.cs",
+              "ToolTip": "C:\\Users\\erga viranda ramsya\\OneDrive\\Documents\\PortalMe\\PortalMe.API\\Services\\RoleService.cs",
+              "RelativeToolTip": "PortalMe.API\\Services\\RoleService.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAA3wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T08:02:43.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\erga viranda ramsya\\OneDrive\\Documents\\PortalMe\\PortalMe.API\\DTOs\\Applications\\ApplicationRequestDto.cs",
+              "RelativeDocumentMoniker": "PortalMe.API\\DTOs\\Applications\\ApplicationRequestDto.cs",
+              "ToolTip": "C:\\Users\\erga viranda ramsya\\OneDrive\\Documents\\PortalMe\\PortalMe.API\\DTOs\\Applications\\ApplicationRequestDto.cs",
+              "RelativeToolTip": "PortalMe.API\\DTOs\\Applications\\ApplicationRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T06:51:47.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RoleResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\erga viranda ramsya\\OneDrive\\Documents\\PortalMe\\PortalMe.API\\DTOs\\Roles\\RoleResponseDto.cs",
+              "RelativeDocumentMoniker": "PortalMe.API\\DTOs\\Roles\\RoleResponseDto.cs",
+              "ToolTip": "C:\\Users\\erga viranda ramsya\\OneDrive\\Documents\\PortalMe\\PortalMe.API\\DTOs\\Roles\\RoleResponseDto.cs",
+              "RelativeToolTip": "PortalMe.API\\DTOs\\Roles\\RoleResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T02:28:36.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\erga viranda ramsya\\OneDrive\\Documents\\PortalMe\\PortalMe.API\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "PortalMe.API\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\erga viranda ramsya\\OneDrive\\Documents\\PortalMe\\PortalMe.API\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "PortalMe.API\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAkwBgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T07:47:47.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PortalMeDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\erga viranda ramsya\\OneDrive\\Documents\\PortalMe\\PortalMe.API\\Data\\PortalMeDbContext.cs",
+              "RelativeDocumentMoniker": "PortalMe.API\\Data\\PortalMeDbContext.cs",
+              "ToolTip": "C:\\Users\\erga viranda ramsya\\OneDrive\\Documents\\PortalMe\\PortalMe.API\\Data\\PortalMeDbContext.cs",
+              "RelativeToolTip": "PortalMe.API\\Data\\PortalMeDbContext.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAowFIAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T02:42:12.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "C:\\Users\\erga viranda ramsya\\OneDrive\\Documents\\PortalMe\\PortalMe.API\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "PortalMe.API\\Controllers\\RoleController.cs",
+              "ToolTip": "C:\\Users\\erga viranda ramsya\\OneDrive\\Documents\\PortalMe\\PortalMe.API\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "PortalMe.API\\Controllers\\RoleController.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAgwAsAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T02:28:30.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\erga viranda ramsya\\OneDrive\\Documents\\PortalMe\\PortalMe.API\\Repositories\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "PortalMe.API\\Repositories\\Interfaces\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\erga viranda ramsya\\OneDrive\\Documents\\PortalMe\\PortalMe.API\\Repositories\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeToolTip": "PortalMe.API\\Repositories\\Interfaces\\IEmployeeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T08:50:13.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EmployeeResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\erga viranda ramsya\\OneDrive\\Documents\\PortalMe\\PortalMe.API\\DTOs\\Employees\\EmployeeResponseDto.cs",
+              "RelativeDocumentMoniker": "PortalMe.API\\DTOs\\Employees\\EmployeeResponseDto.cs",
+              "ToolTip": "C:\\Users\\erga viranda ramsya\\OneDrive\\Documents\\PortalMe\\PortalMe.API\\DTOs\\Employees\\EmployeeResponseDto.cs",
+              "RelativeToolTip": "PortalMe.API\\DTOs\\Employees\\EmployeeResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T14:38:28.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\erga viranda ramsya\\OneDrive\\Documents\\PortalMe\\PortalMe.API\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "PortalMe.API\\Services\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\erga viranda ramsya\\OneDrive\\Documents\\PortalMe\\PortalMe.API\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "PortalMe.API\\Services\\EmployeeService.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAUwDMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T14:33:52.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IAccountRoleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\erga viranda ramsya\\OneDrive\\Documents\\PortalMe\\PortalMe.API\\Repositories\\Interfaces\\IAccountRoleRepository.cs",
+              "RelativeDocumentMoniker": "PortalMe.API\\Repositories\\Interfaces\\IAccountRoleRepository.cs",
+              "ToolTip": "C:\\Users\\erga viranda ramsya\\OneDrive\\Documents\\PortalMe\\PortalMe.API\\Repositories\\Interfaces\\IAccountRoleRepository.cs",
+              "RelativeToolTip": "PortalMe.API\\Repositories\\Interfaces\\IAccountRoleRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T08:48:17.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ICompanyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\erga viranda ramsya\\OneDrive\\Documents\\PortalMe\\PortalMe.API\\Repositories\\Interfaces\\ICompanyRepository.cs",
+              "RelativeDocumentMoniker": "PortalMe.API\\Repositories\\Interfaces\\ICompanyRepository.cs",
+              "ToolTip": "C:\\Users\\erga viranda ramsya\\OneDrive\\Documents\\PortalMe\\PortalMe.API\\Repositories\\Interfaces\\ICompanyRepository.cs",
+              "RelativeToolTip": "PortalMe.API\\Repositories\\Interfaces\\ICompanyRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T08:48:57.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ILogAdminRepository.cs",
+              "DocumentMoniker": "C:\\Users\\erga viranda ramsya\\OneDrive\\Documents\\PortalMe\\PortalMe.API\\Repositories\\Interfaces\\ILogAdminRepository.cs",
+              "RelativeDocumentMoniker": "PortalMe.API\\Repositories\\Interfaces\\ILogAdminRepository.cs",
+              "ToolTip": "C:\\Users\\erga viranda ramsya\\OneDrive\\Documents\\PortalMe\\PortalMe.API\\Repositories\\Interfaces\\ILogAdminRepository.cs",
+              "RelativeToolTip": "PortalMe.API\\Repositories\\Interfaces\\ILogAdminRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T08:49:01.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "RoleRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\erga viranda ramsya\\OneDrive\\Documents\\PortalMe\\PortalMe.API\\DTOs\\Roles\\RoleRequestDto.cs",
+              "RelativeDocumentMoniker": "PortalMe.API\\DTOs\\Roles\\RoleRequestDto.cs",
+              "ToolTip": "C:\\Users\\erga viranda ramsya\\OneDrive\\Documents\\PortalMe\\PortalMe.API\\DTOs\\Roles\\RoleRequestDto.cs",
+              "RelativeToolTip": "PortalMe.API\\DTOs\\Roles\\RoleRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T08:03:25.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "EmployeeRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\erga viranda ramsya\\OneDrive\\Documents\\PortalMe\\PortalMe.API\\DTOs\\Employees\\EmployeeRequestDto.cs",
+              "RelativeDocumentMoniker": "PortalMe.API\\DTOs\\Employees\\EmployeeRequestDto.cs",
+              "ToolTip": "C:\\Users\\erga viranda ramsya\\OneDrive\\Documents\\PortalMe\\PortalMe.API\\DTOs\\Employees\\EmployeeRequestDto.cs",
+              "RelativeToolTip": "PortalMe.API\\DTOs\\Employees\\EmployeeRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T06:53:01.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IApplicationService.cs",
+              "DocumentMoniker": "C:\\Users\\erga viranda ramsya\\OneDrive\\Documents\\PortalMe\\PortalMe.API\\Services\\Interfaces\\IApplicationService.cs",
+              "RelativeDocumentMoniker": "PortalMe.API\\Services\\Interfaces\\IApplicationService.cs",
+              "ToolTip": "C:\\Users\\erga viranda ramsya\\OneDrive\\Documents\\PortalMe\\PortalMe.API\\Services\\Interfaces\\IApplicationService.cs",
+              "RelativeToolTip": "PortalMe.API\\Services\\Interfaces\\IApplicationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T08:03:18.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IRoleService.cs",
+              "DocumentMoniker": "C:\\Users\\erga viranda ramsya\\OneDrive\\Documents\\PortalMe\\PortalMe.API\\Services\\Interfaces\\IRoleService.cs",
+              "RelativeDocumentMoniker": "PortalMe.API\\Services\\Interfaces\\IRoleService.cs",
+              "ToolTip": "C:\\Users\\erga viranda ramsya\\OneDrive\\Documents\\PortalMe\\PortalMe.API\\Services\\Interfaces\\IRoleService.cs",
+              "RelativeToolTip": "PortalMe.API\\Services\\Interfaces\\IRoleService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T08:02:56.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "RoleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\erga viranda ramsya\\OneDrive\\Documents\\PortalMe\\PortalMe.API\\Repositories\\Data\\RoleRepository.cs",
+              "RelativeDocumentMoniker": "PortalMe.API\\Repositories\\Data\\RoleRepository.cs",
+              "ToolTip": "C:\\Users\\erga viranda ramsya\\OneDrive\\Documents\\PortalMe\\PortalMe.API\\Repositories\\Data\\RoleRepository.cs",
+              "RelativeToolTip": "PortalMe.API\\Repositories\\Data\\RoleRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T08:03:03.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
               "Title": "LogAdminController.cs",
               "DocumentMoniker": "C:\\Users\\erga viranda ramsya\\OneDrive\\Documents\\PortalMe\\PortalMe.API\\Controllers\\LogAdminController.cs",
               "RelativeDocumentMoniker": "PortalMe.API\\Controllers\\LogAdminController.cs",
-              "ToolTip": "C:\\Users\\erga viranda ramsya\\OneDrive\\Documents\\PortalMe\\PortalMe.API\\Controllers\\LogAdminController.cs*",
-              "RelativeToolTip": "PortalMe.API\\Controllers\\LogAdminController.cs*",
-              "ViewState": "AQIAABEAAAAAAAAAAAAAwCUAAABRAAAA",
+              "ToolTip": "C:\\Users\\erga viranda ramsya\\OneDrive\\Documents\\PortalMe\\PortalMe.API\\Controllers\\LogAdminController.cs",
+              "RelativeToolTip": "PortalMe.API\\Controllers\\LogAdminController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-12T15:33:58.783Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-12T15:33:58.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IAccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\erga viranda ramsya\\OneDrive\\Documents\\PortalMe\\PortalMe.API\\Repositories\\Interfaces\\IAccountRepository.cs",
+              "RelativeDocumentMoniker": "PortalMe.API\\Repositories\\Interfaces\\IAccountRepository.cs",
+              "ToolTip": "C:\\Users\\erga viranda ramsya\\OneDrive\\Documents\\PortalMe\\PortalMe.API\\Repositories\\Interfaces\\IAccountRepository.cs",
+              "RelativeToolTip": "PortalMe.API\\Repositories\\Interfaces\\IAccountRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T06:48:51.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CompanyController.cs",
+              "DocumentMoniker": "C:\\Users\\erga viranda ramsya\\OneDrive\\Documents\\PortalMe\\PortalMe.API\\Controllers\\CompanyController.cs",
+              "RelativeDocumentMoniker": "PortalMe.API\\Controllers\\CompanyController.cs",
+              "ToolTip": "C:\\Users\\erga viranda ramsya\\OneDrive\\Documents\\PortalMe\\PortalMe.API\\Controllers\\CompanyController.cs",
+              "RelativeToolTip": "PortalMe.API\\Controllers\\CompanyController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T07:04:25.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ApplicationController.cs",
+              "DocumentMoniker": "C:\\Users\\erga viranda ramsya\\OneDrive\\Documents\\PortalMe\\PortalMe.API\\Controllers\\ApplicationController.cs",
+              "RelativeDocumentMoniker": "PortalMe.API\\Controllers\\ApplicationController.cs",
+              "ToolTip": "C:\\Users\\erga viranda ramsya\\OneDrive\\Documents\\PortalMe\\PortalMe.API\\Controllers\\ApplicationController.cs",
+              "RelativeToolTip": "PortalMe.API\\Controllers\\ApplicationController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T02:10:40.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AccountRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\erga viranda ramsya\\OneDrive\\Documents\\PortalMe\\PortalMe.API\\DTOs\\Accounts\\AccountRequestDto.cs",
+              "RelativeDocumentMoniker": "PortalMe.API\\DTOs\\Accounts\\AccountRequestDto.cs",
+              "ToolTip": "C:\\Users\\erga viranda ramsya\\OneDrive\\Documents\\PortalMe\\PortalMe.API\\DTOs\\Accounts\\AccountRequestDto.cs",
+              "RelativeToolTip": "PortalMe.API\\DTOs\\Accounts\\AccountRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T06:50:57.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AccountResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\erga viranda ramsya\\OneDrive\\Documents\\PortalMe\\PortalMe.API\\DTOs\\Accounts\\AccountResponseDto.cs",
+              "RelativeDocumentMoniker": "PortalMe.API\\DTOs\\Accounts\\AccountResponseDto.cs",
+              "ToolTip": "C:\\Users\\erga viranda ramsya\\OneDrive\\Documents\\PortalMe\\PortalMe.API\\DTOs\\Accounts\\AccountResponseDto.cs",
+              "RelativeToolTip": "PortalMe.API\\DTOs\\Accounts\\AccountResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T06:51:11.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "AccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\erga viranda ramsya\\OneDrive\\Documents\\PortalMe\\PortalMe.API\\Repositories\\Data\\AccountRepository.cs",
+              "RelativeDocumentMoniker": "PortalMe.API\\Repositories\\Data\\AccountRepository.cs",
+              "ToolTip": "C:\\Users\\erga viranda ramsya\\OneDrive\\Documents\\PortalMe\\PortalMe.API\\Repositories\\Data\\AccountRepository.cs",
+              "RelativeToolTip": "PortalMe.API\\Repositories\\Data\\AccountRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T06:49:09.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "LoginResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\erga viranda ramsya\\OneDrive\\Documents\\PortalMe\\PortalMe.API\\DTOs\\Accounts\\LoginResponseDto.cs",
+              "RelativeDocumentMoniker": "PortalMe.API\\DTOs\\Accounts\\LoginResponseDto.cs",
+              "ToolTip": "C:\\Users\\erga viranda ramsya\\OneDrive\\Documents\\PortalMe\\PortalMe.API\\DTOs\\Accounts\\LoginResponseDto.cs",
+              "RelativeToolTip": "PortalMe.API\\DTOs\\Accounts\\LoginResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T07:10:19.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "LoginRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\erga viranda ramsya\\OneDrive\\Documents\\PortalMe\\PortalMe.API\\DTOs\\Accounts\\LoginRequestDto.cs",
+              "RelativeDocumentMoniker": "PortalMe.API\\DTOs\\Accounts\\LoginRequestDto.cs",
+              "ToolTip": "C:\\Users\\erga viranda ramsya\\OneDrive\\Documents\\PortalMe\\PortalMe.API\\DTOs\\Accounts\\LoginRequestDto.cs",
+              "RelativeToolTip": "PortalMe.API\\DTOs\\Accounts\\LoginRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T07:10:18.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "AddAccountRoleRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\erga viranda ramsya\\OneDrive\\Documents\\PortalMe\\PortalMe.API\\DTOs\\Accounts\\AddAccountRoleRequestDto.cs",
+              "RelativeDocumentMoniker": "PortalMe.API\\DTOs\\Accounts\\AddAccountRoleRequestDto.cs",
+              "ToolTip": "C:\\Users\\erga viranda ramsya\\OneDrive\\Documents\\PortalMe\\PortalMe.API\\DTOs\\Accounts\\AddAccountRoleRequestDto.cs",
+              "RelativeToolTip": "PortalMe.API\\DTOs\\Accounts\\AddAccountRoleRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T07:10:17.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "AccountRoleResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\erga viranda ramsya\\OneDrive\\Documents\\PortalMe\\PortalMe.API\\DTOs\\Accounts\\AccountRoleResponseDto.cs",
+              "RelativeDocumentMoniker": "PortalMe.API\\DTOs\\Accounts\\AccountRoleResponseDto.cs",
+              "ToolTip": "C:\\Users\\erga viranda ramsya\\OneDrive\\Documents\\PortalMe\\PortalMe.API\\DTOs\\Accounts\\AccountRoleResponseDto.cs",
+              "RelativeToolTip": "PortalMe.API\\DTOs\\Accounts\\AccountRoleResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T06:51:20.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "CompanyRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\erga viranda ramsya\\OneDrive\\Documents\\PortalMe\\PortalMe.API\\DTOs\\Companys\\CompanyRequestDto.cs",
+              "RelativeDocumentMoniker": "PortalMe.API\\DTOs\\Companys\\CompanyRequestDto.cs",
+              "ToolTip": "C:\\Users\\erga viranda ramsya\\OneDrive\\Documents\\PortalMe\\PortalMe.API\\DTOs\\Companys\\CompanyRequestDto.cs",
+              "RelativeToolTip": "PortalMe.API\\DTOs\\Companys\\CompanyRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T06:51:27.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "AccountRoleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\erga viranda ramsya\\OneDrive\\Documents\\PortalMe\\PortalMe.API\\Repositories\\Data\\AccountRoleRepository.cs",
+              "RelativeDocumentMoniker": "PortalMe.API\\Repositories\\Data\\AccountRoleRepository.cs",
+              "ToolTip": "C:\\Users\\erga viranda ramsya\\OneDrive\\Documents\\PortalMe\\PortalMe.API\\Repositories\\Data\\AccountRoleRepository.cs",
+              "RelativeToolTip": "PortalMe.API\\Repositories\\Data\\AccountRoleRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T06:49:37.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "IApplicationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\erga viranda ramsya\\OneDrive\\Documents\\PortalMe\\PortalMe.API\\Repositories\\Interfaces\\IApplicationRepository.cs",
+              "RelativeDocumentMoniker": "PortalMe.API\\Repositories\\Interfaces\\IApplicationRepository.cs",
+              "ToolTip": "C:\\Users\\erga viranda ramsya\\OneDrive\\Documents\\PortalMe\\PortalMe.API\\Repositories\\Interfaces\\IApplicationRepository.cs",
+              "RelativeToolTip": "PortalMe.API\\Repositories\\Interfaces\\IApplicationRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T06:49:03.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\erga viranda ramsya\\OneDrive\\Documents\\PortalMe\\PortalMe.API\\Program.cs",
+              "RelativeDocumentMoniker": "PortalMe.API\\Program.cs",
+              "ToolTip": "C:\\Users\\erga viranda ramsya\\OneDrive\\Documents\\PortalMe\\PortalMe.API\\Program.cs",
+              "RelativeToolTip": "PortalMe.API\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAEYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T02:05:23.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\erga viranda ramsya\\OneDrive\\Documents\\PortalMe\\PortalMe.API\\appsettings.json",
+              "RelativeDocumentMoniker": "PortalMe.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\erga viranda ramsya\\OneDrive\\Documents\\PortalMe\\PortalMe.API\\appsettings.json",
+              "RelativeToolTip": "PortalMe.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-13T02:11:53.519Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }

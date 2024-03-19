@@ -2,6 +2,7 @@
 using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using PortalMe.API.Data;
 
@@ -10,9 +11,10 @@ using PortalMe.API.Data;
 namespace PortalMe.API.Migrations
 {
     [DbContext(typeof(PortalMeDbContext))]
-    partial class PortalMeDbContextModelSnapshot : ModelSnapshot
+    [Migration("20240313014532_Database")]
+    partial class Database
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -30,6 +32,10 @@ namespace PortalMe.API.Migrations
                         .HasColumnType("varchar(50)")
                         .HasColumnName("email");
 
+                    b.Property<bool>("IsLoggedIn")
+                        .HasColumnType("tinyint(1)")
+                        .HasColumnName("is_logged_in");
+
                     b.Property<string>("Password")
                         .IsRequired()
                         .HasColumnType("varchar(50)")
@@ -38,14 +44,6 @@ namespace PortalMe.API.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("tbl_m_accounts");
-
-                    b.HasData(
-                        new
-                        {
-                            Id = new Guid("5e29dcba-7025-4bd3-98f2-2a01bdcf1e37"),
-                            Email = "diansastro@mii.co.id",
-                            Password = "$2a$12$PHeBvqaf14PFYhIrF36dwOyVOeDLiLq2zkENbQfLxQtYEOeZQkxja"
-                        });
                 });
 
             modelBuilder.Entity("PortalMe.API.Models.AccountRole", b =>
@@ -70,20 +68,6 @@ namespace PortalMe.API.Migrations
                     b.HasIndex("RoleId");
 
                     b.ToTable("tbl_tr_account_roles");
-
-                    b.HasData(
-                        new
-                        {
-                            Id = new Guid("eaa028da-c51c-468a-9e09-713b96e24571"),
-                            AccountId = new Guid("5e29dcba-7025-4bd3-98f2-2a01bdcf1e37"),
-                            RoleId = new Guid("276106a8-af59-4042-b4f6-3f4c9293d76a")
-                        },
-                        new
-                        {
-                            Id = new Guid("5683138f-bc44-4a0b-b3db-e94daa0187ce"),
-                            AccountId = new Guid("5e29dcba-7025-4bd3-98f2-2a01bdcf1e37"),
-                            RoleId = new Guid("bf583c10-40c4-4d0e-8231-95b506cb20a9")
-                        });
                 });
 
             modelBuilder.Entity("PortalMe.API.Models.Application", b =>
@@ -97,11 +81,6 @@ namespace PortalMe.API.Migrations
                         .IsRequired()
                         .HasColumnType("varchar(50)")
                         .HasColumnName("name_app");
-
-                    b.Property<string>("Photo")
-                        .IsRequired()
-                        .HasColumnType("varchar(255)")
-                        .HasColumnName("photo");
 
                     b.Property<string>("UrlApp")
                         .IsRequired()
@@ -152,13 +131,6 @@ namespace PortalMe.API.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("tbl_m_companys");
-
-                    b.HasData(
-                        new
-                        {
-                            Id = new Guid("87e29e4d-7e6a-4805-b4f3-29e7742e2286"),
-                            CompanyName = "Metrodata"
-                        });
                 });
 
             modelBuilder.Entity("PortalMe.API.Models.Employee", b =>
@@ -201,18 +173,6 @@ namespace PortalMe.API.Migrations
                     b.HasIndex("CompanyId");
 
                     b.ToTable("tbl_m_employees");
-
-                    b.HasData(
-                        new
-                        {
-                            Id = new Guid("5e29dcba-7025-4bd3-98f2-2a01bdcf1e37"),
-                            CompanyId = new Guid("87e29e4d-7e6a-4805-b4f3-29e7742e2286"),
-                            Department = "ADD 1",
-                            FirstName = "Dian",
-                            LastName = "Sastro",
-                            Photo = "profile.jpg",
-                            Position = "Appdev"
-                        });
                 });
 
             modelBuilder.Entity("PortalMe.API.Models.LogAdmin", b =>
@@ -257,18 +217,6 @@ namespace PortalMe.API.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("tbl_m_roles");
-
-                    b.HasData(
-                        new
-                        {
-                            Id = new Guid("276106a8-af59-4042-b4f6-3f4c9293d76a"),
-                            RoleName = "Employee"
-                        },
-                        new
-                        {
-                            Id = new Guid("bf583c10-40c4-4d0e-8231-95b506cb20a9"),
-                            RoleName = "Admin"
-                        });
                 });
 
             modelBuilder.Entity("PortalMe.API.Models.Account", b =>

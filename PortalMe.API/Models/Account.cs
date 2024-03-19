@@ -16,8 +16,6 @@ namespace PortalMe.API.Models
     [Column("password", TypeName = "varchar(50)")]
     public string Password { get; set; } = string.Empty;
 
-    [Column("is_logged_in")] public bool IsLoggedIn { get; set; }
-
     // Cardinality
     public virtual Employee? Employee { get; set; }
     public virtual ICollection<AccountRole>? AccountRoles { get; set; }
